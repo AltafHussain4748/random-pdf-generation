@@ -23,7 +23,7 @@ Check on `http://127.0.0.1:5000/`
 
 **How to run fronend?**
 
-Go to fronend directory and run following commands.
+Go to frontend directory and run following commands.
 
 `yarn install`
 
